@@ -1,0 +1,4 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"","Login","validate the positive functionality","0","0","1","0","0"
+"","Forget Password","validate the positive functionality","0","0","2","0","0"
+"","Login","validate the negative login functionality","0","0","2","0","0"

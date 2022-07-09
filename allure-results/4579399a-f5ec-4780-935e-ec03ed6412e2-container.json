@@ -1,0 +1,1 @@
+{"uuid":"4579399a-f5ec-4780-935e-ec03ed6412e2","name":"Scenario: validate the positive functionality","children":["075f792d-c4e6-4868-aba5-05da4a620b07"],"befores":[],"afters":[{"name":"pageSteps.Hook.quit()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1657265092396,"stop":1657265092509}],"start":1657265090472,"stop":1657265092509}

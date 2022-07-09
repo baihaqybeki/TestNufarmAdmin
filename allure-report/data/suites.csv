@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jul 07 22:17:16 WIB 2022","Thu Jul 07 22:17:18 WIB 2022","2404","","Login","","validate the positive functionality","","validate the positive functionality",""
+"passed","Thu Jul 07 22:17:10 WIB 2022","Thu Jul 07 22:17:13 WIB 2022","3410","","Forget Password","","validate the positive functionality","","validate the positive functionality",""
+"passed","Thu Jul 07 22:17:20 WIB 2022","Thu Jul 07 22:17:22 WIB 2022","2307","","Login","","validate the negative login functionality","","validate the negative login functionality",""
+"passed","Thu Jul 07 22:17:18 WIB 2022","Thu Jul 07 22:17:20 WIB 2022","2172","","Login","","validate the negative login functionality","","validate the negative login functionality",""
+"passed","Thu Jul 07 22:17:13 WIB 2022","Thu Jul 07 22:17:16 WIB 2022","2113","","Forget Password","","validate the positive functionality","","validate the positive functionality",""
